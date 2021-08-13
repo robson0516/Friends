@@ -1,0 +1,54 @@
+.container-fluid{
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    justify-content: center;
+    text-align: center;
+    height: 7vh;
+    padding-top: 2%;
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-top: 8%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bloco{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 4%;
+}    
+
+.button{
+    justify-content: center;
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 6%;
+}
+
+h5{
+    font-family: 'Roboto', sans-serif;
+    margin-left: -20%;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.cat{
+    width: 250px;
+    border-radius: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: -7%;
+}
+
